@@ -16,3 +16,5 @@ I learn a lot of stuff related to data science skills. This boocamp
 - Python Programming
 - Essential Python for data analyst
 - Datalore
+
+You can find me on Linken
