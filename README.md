@@ -4,7 +4,7 @@ My data portfolio for data analyst job
 
 ## What have I learned from this camp
 
-I learn a lot of stuff related to data science skills. This boocamp
+I learn a lot of stuffs related to data science skills. This boocamp has 10 sprints as follow.
 
 - Intro to data science
 - Spreadsheets
