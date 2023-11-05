@@ -12,4 +12,8 @@ ctrl <- trainControl(
 model <- train(medv ~ rm + b + crim,
                data = train_data,
                method = "lm",
+               preProcess = c("center", "scale"),
                trControl = ctrl) ### add trControl
+
+## variable importance
+varImp(model)
